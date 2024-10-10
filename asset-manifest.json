@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc942893.css",
-    "main.js": "/static/js/main.8329584f.js",
-    "static/media/image_6.png": "/static/media/image_6.9e99c2f32b36041bb6c8.png",
-    "static/media/image_10.png": "/static/media/image_10.e7217e7a23f0fe7d3901.png",
-    "static/media/image_8.png": "/static/media/image_8.ddea58241053f757f293.png",
-    "static/media/image_1.png": "/static/media/image_1.46991b15d66116887cf0.png",
-    "static/media/image_4.png": "/static/media/image_4.9531ea76f68659817d2f.png",
-    "static/media/image_7.png": "/static/media/image_7.d66bc2af31cc31abf786.png",
-    "static/media/image_11.png": "/static/media/image_11.c09a55d90b38634e58a4.png",
-    "static/media/image_2.png": "/static/media/image_2.dc47cac923dbea8dec45.png",
-    "static/media/image_12.png": "/static/media/image_12.ff9a2bb5b61182177079.png",
-    "static/media/image_5.png": "/static/media/image_5.26242f9c2d26a9c2202c.png",
-    "static/media/image_3.png": "/static/media/image_3.e941182dcb636ebd5be2.png",
-    "static/media/image_9.png": "/static/media/image_9.836b56d05c70fb488f20.png",
+    "main.css": "/static/css/main.6736623d.css",
+    "main.js": "/static/js/main.6ad9325a.js",
+    "static/media/image_7.png": "/static/media/image_7.9e99c2f32b36041bb6c8.png",
+    "static/media/image_2.png": "/static/media/image_2.e7217e7a23f0fe7d3901.png",
+    "static/media/image_3.png": "/static/media/image_3.ddea58241053f757f293.png",
+    "static/media/image_10.png": "/static/media/image_10.9531ea76f68659817d2f.png",
+    "static/media/image_1.png": "/static/media/image_1.d66bc2af31cc31abf786.png",
+    "static/media/image_main.png": "/static/media/image_main.c09a55d90b38634e58a4.png",
+    "static/media/image_5.png": "/static/media/image_5.dc47cac923dbea8dec45.png",
+    "static/media/image_8.png": "/static/media/image_8.ff9a2bb5b61182177079.png",
+    "static/media/image_12.png": "/static/media/image_12.26242f9c2d26a9c2202c.png",
+    "static/media/image_11.png": "/static/media/image_11.e941182dcb636ebd5be2.png",
+    "static/media/image_4.png": "/static/media/image_4.836b56d05c70fb488f20.png",
     "static/media/wedding_day.png": "/static/media/wedding_day.7613431df740aadb601b.png",
+    "static/media/image_9.png": "/static/media/image_9.78c3f02b8fb19da5a6a7.png",
+    "static/media/image_6.png": "/static/media/image_6.56a2d62eafd2670df1e9.png",
     "static/media/CROISAN.otf": "/static/media/CROISAN.ab15f69995e6025e081d.otf",
     "static/media/DreamCottage-Regular.otf": "/static/media/DreamCottage-Regular.4b2d7011adec8f1a788e.otf",
     "index.html": "/index.html",
-    "main.cc942893.css.map": "/static/css/main.cc942893.css.map",
-    "main.8329584f.js.map": "/static/js/main.8329584f.js.map"
+    "main.6736623d.css.map": "/static/css/main.6736623d.css.map",
+    "main.6ad9325a.js.map": "/static/js/main.6ad9325a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc942893.css",
-    "static/js/main.8329584f.js"
+    "static/css/main.6736623d.css",
+    "static/js/main.6ad9325a.js"
   ]
 }
