@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.1d61580c.css",
-    "main.js": "/static/js/main.dd9607e4.js",
+    "main.js": "/static/js/main.cfa49b25.js",
     "static/media/image_7.png": "/static/media/image_7.9e99c2f32b36041bb6c8.png",
     "static/media/image_2.png": "/static/media/image_2.e7217e7a23f0fe7d3901.png",
     "static/media/image_3.png": "/static/media/image_3.ddea58241053f757f293.png",
-    "static/media/image_10.png": "/static/media/image_10.9531ea76f68659817d2f.png",
     "static/media/image_1.png": "/static/media/image_1.d66bc2af31cc31abf786.png",
     "static/media/image_main.png": "/static/media/image_main.c09a55d90b38634e58a4.png",
     "static/media/image_5.png": "/static/media/image_5.dc47cac923dbea8dec45.png",
-    "static/media/image_8.png": "/static/media/image_8.ff9a2bb5b61182177079.png",
-    "static/media/image_12.png": "/static/media/image_12.26242f9c2d26a9c2202c.png",
-    "static/media/image_11.png": "/static/media/image_11.e941182dcb636ebd5be2.png",
+    "static/media/image_9.png": "/static/media/image_9.ff9a2bb5b61182177079.png",
+    "static/media/image_8.png": "/static/media/image_8.56345a900879f2f2c534.png",
+    "static/media/image_12.png": "/static/media/image_12.e941182dcb636ebd5be2.png",
     "static/media/image_4.png": "/static/media/image_4.836b56d05c70fb488f20.png",
+    "static/media/image_11.png": "/static/media/image_11.f6b57e87d2fed46673c9.png",
     "static/media/wedding_day.png": "/static/media/wedding_day.7613431df740aadb601b.png",
-    "static/media/image_9.png": "/static/media/image_9.78c3f02b8fb19da5a6a7.png",
+    "static/media/image_10.png": "/static/media/image_10.78c3f02b8fb19da5a6a7.png",
     "static/media/image_6.png": "/static/media/image_6.56a2d62eafd2670df1e9.png",
     "static/media/CROISAN.otf": "/static/media/CROISAN.ab15f69995e6025e081d.otf",
     "static/media/DreamCottage-Regular.otf": "/static/media/DreamCottage-Regular.4b2d7011adec8f1a788e.otf",
     "index.html": "/index.html",
     "main.1d61580c.css.map": "/static/css/main.1d61580c.css.map",
-    "main.dd9607e4.js.map": "/static/js/main.dd9607e4.js.map"
+    "main.cfa49b25.js.map": "/static/js/main.cfa49b25.js.map"
   },
   "entrypoints": [
     "static/css/main.1d61580c.css",
-    "static/js/main.dd9607e4.js"
+    "static/js/main.cfa49b25.js"
   ]
 }
