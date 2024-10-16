@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d998d72.css",
-    "main.js": "/static/js/main.132066a5.js",
+    "main.css": "/static/css/main.032c3f10.css",
+    "main.js": "/static/js/main.fb54ddfd.js",
     "static/media/image_7.png": "/static/media/image_7.9e99c2f32b36041bb6c8.png",
     "static/media/image_1.png": "/static/media/image_1.e7217e7a23f0fe7d3901.png",
     "static/media/image_3.png": "/static/media/image_3.ddea58241053f757f293.png",
@@ -17,14 +17,15 @@
     "static/media/image_6.png": "/static/media/image_6.56a2d62eafd2670df1e9.png",
     "static/media/main.jpg": "/static/media/main.bcc4a57e5f3f8abc2f61.jpg",
     "static/media/wedding_day.png": "/static/media/wedding_day.69bd311c30c6b6fdbd5b.png",
+    "static/media/save-the-date.gif": "/static/media/save-the-date.1d163febd3b17527b747.gif",
     "static/media/CROISAN.otf": "/static/media/CROISAN.ab15f69995e6025e081d.otf",
     "static/media/DreamCottage-Regular.otf": "/static/media/DreamCottage-Regular.4b2d7011adec8f1a788e.otf",
     "index.html": "/index.html",
-    "main.1d998d72.css.map": "/static/css/main.1d998d72.css.map",
-    "main.132066a5.js.map": "/static/js/main.132066a5.js.map"
+    "main.032c3f10.css.map": "/static/css/main.032c3f10.css.map",
+    "main.fb54ddfd.js.map": "/static/js/main.fb54ddfd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d998d72.css",
-    "static/js/main.132066a5.js"
+    "static/css/main.032c3f10.css",
+    "static/js/main.fb54ddfd.js"
   ]
 }
