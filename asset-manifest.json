@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a1f8e448.css",
-    "main.js": "/static/js/main.9104b71d.js",
+    "main.js": "/static/js/main.ff894981.js",
     "static/media/image_7.png": "/static/media/image_7.9e99c2f32b36041bb6c8.png",
     "static/media/image_2.png": "/static/media/image_2.e7217e7a23f0fe7d3901.png",
     "static/media/image_3.png": "/static/media/image_3.ddea58241053f757f293.png",
@@ -21,10 +21,10 @@
     "static/media/DreamCottage-Regular.otf": "/static/media/DreamCottage-Regular.4b2d7011adec8f1a788e.otf",
     "index.html": "/index.html",
     "main.a1f8e448.css.map": "/static/css/main.a1f8e448.css.map",
-    "main.9104b71d.js.map": "/static/js/main.9104b71d.js.map"
+    "main.ff894981.js.map": "/static/js/main.ff894981.js.map"
   },
   "entrypoints": [
     "static/css/main.a1f8e448.css",
-    "static/js/main.9104b71d.js"
+    "static/js/main.ff894981.js"
   ]
 }
