@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a973e603.css",
-    "main.js": "/static/js/main.1c2ec8f2.js",
+    "main.css": "/static/css/main.fd28db1c.css",
+    "main.js": "/static/js/main.b3cba19a.js",
     "static/media/image_7.png": "/static/media/image_7.9e99c2f32b36041bb6c8.png",
     "static/media/image_1.png": "/static/media/image_1.e7217e7a23f0fe7d3901.png",
     "static/media/image_3.png": "/static/media/image_3.ddea58241053f757f293.png",
@@ -21,11 +21,11 @@
     "static/media/CROISAN.otf": "/static/media/CROISAN.ab15f69995e6025e081d.otf",
     "static/media/DreamCottage-Regular.otf": "/static/media/DreamCottage-Regular.4b2d7011adec8f1a788e.otf",
     "index.html": "/index.html",
-    "main.a973e603.css.map": "/static/css/main.a973e603.css.map",
-    "main.1c2ec8f2.js.map": "/static/js/main.1c2ec8f2.js.map"
+    "main.fd28db1c.css.map": "/static/css/main.fd28db1c.css.map",
+    "main.b3cba19a.js.map": "/static/js/main.b3cba19a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a973e603.css",
-    "static/js/main.1c2ec8f2.js"
+    "static/css/main.fd28db1c.css",
+    "static/js/main.b3cba19a.js"
   ]
 }
